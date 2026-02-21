@@ -10,6 +10,8 @@ A lightweight Python script for scanning and analyzing posts.
 ## 🚀 Usage
 ```bash
 python3 postscanner.py
+```
 or
+```bash
 python portscanner.py
 ```
