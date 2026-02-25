@@ -5,4 +5,4 @@ Created for learning and authorized security testing.
 
 ## Structure
 - bat/        - Windows batch scripts
-- python/     - Python security tools
+- python/     - Python scripts
