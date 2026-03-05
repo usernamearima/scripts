@@ -18,7 +18,7 @@ beautifulsoup4
 lxml  
 colorama  
 
-Install dependencies:
+## Install dependencies:
 
 pip install -r requirements.txt
 
