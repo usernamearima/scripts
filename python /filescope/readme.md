@@ -4,7 +4,7 @@
 
 **Features:** SHA256 hash, file header & extension check, size anomaly detection, optional VirusTotal scan, basic risk assessment.
 
-**Usage:**  
+# **Usage:**  
 `python filescope.py file.pdf`  
 `python filescope.py file.pdf --vt-api-key YOUR_API_KEY`  
 `python filescope.py ./files --batch`
